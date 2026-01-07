@@ -1,0 +1,31 @@
+body {
+  background-image: url(images/laughting-man-is-pointing-left-with-his-forefingers-white-background_176474-115281.jpg);
+}
+.point {
+  padding: 50px;
+  margin: 50px;
+}
+
+.gradeBox {
+  width: 100px;
+  height: 100px;
+  color: white;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.grade-row {
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  padding-right: 300px;
+}
+
+.catImage {
+  width: 500px;
+  height: auto;
+  margin-top: 20px;
+}
